@@ -58,7 +58,3 @@ semantic preservation across domains through hands-on implementation and analysi
   - Cycle-consistency loss helps preserve digit structure during translation
   - Removing or weakening cycle loss leads to mode collapse or semantic distortion
 - Compared translated results across training stages to analyze convergence behavior
-
----
-
-## Repository Structure
